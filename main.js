@@ -16,6 +16,6 @@ function take_snapshot() {
     save('filter_image.png');
 }
 
-function filter() {
+function filter1() {
   tint_colour = document.getElementById("FilterColour").value;
 }
